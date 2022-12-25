@@ -1,7 +1,9 @@
 # Advent Of Code 2022
 My Rust solutions to [Advent Of Code 2022](https://adventofcode.com/2022) challenges in the Rust programming language.
 
-Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. One programming puzzle a day is released from 1st to 25th December, divided in two parts (the second of which is unlocked after solving the first).
+<img src="./.assets/ferris.png" width="170">
+
+Advent of Code is an advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. One programming puzzle a day is released from 1st to 25th December, divided in two parts (the second of which is unlocked after solving the first).
 
 ## How to run
 - Clone this repository:
